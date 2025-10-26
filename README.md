@@ -21,7 +21,7 @@ The analysis is performed using:
 
 
 
-- 🗂️ Dataset Description
+## 🗂️ Dataset Description
 
 This project uses a single dataset that tracks the hiring process for different vacancies across various Business Units (BU Regions).
 Each record represents one vacancy and the timeline of its recruitment stages.
