@@ -42,7 +42,7 @@ Each record represents one vacancy and the timeline of its recruitment stages.
 
 
 
-🔄 Workflow Description
+## 🔄 Workflow Description
 | Step | Stage                           | Tool                                     | Description                                                                                                                                                                             |
 | ---- | ------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | **Data Cleaning & Preparation** | **Excel**                                | Cleaned 12 monthly vacancy files and **combined them into a single master dataset**. Removed duplicates, standardized column names, corrected date formats, and handled missing values. |
